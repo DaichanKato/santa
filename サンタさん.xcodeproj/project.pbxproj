@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4209114A1FF3D5AE00394DE6 /* cda2977e3f7062ff0b38cf03e249acbf.png in Resources */ = {isa = PBXBuildFile; fileRef = 420911491FF3D5AD00394DE6 /* cda2977e3f7062ff0b38cf03e249acbf.png */; };
+		4209114E1FF3D7A000394DE6 /* 結晶.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4209114D1FF3D7A000394DE6 /* 結晶.jpg */; };
+		420911521FF3D80800394DE6 /* 6193-450x337.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 420911511FF3D80800394DE6 /* 6193-450x337.jpg */; };
+		420911541FF3DFDE00394DE6 /* サンタ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 420911531FF3DFDE00394DE6 /* サンタ.jpg */; };
+		420911581FF3EB9600394DE6 /* 感謝.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 420911571FF3EB9600394DE6 /* 感謝.jpg */; };
+		4209115A1FF3EBC500394DE6 /* 365日.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 420911591FF3EBC500394DE6 /* 365日.mp3 */; };
+		4209115C1FF3F47700394DE6 /* メイン.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4209115B1FF3F47600394DE6 /* メイン.jpg */; };
 		4214B7601FF32F7A00908152 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4214B75F1FF32F7A00908152 /* AppDelegate.swift */; };
 		4214B7621FF32F7A00908152 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4214B7611FF32F7A00908152 /* ViewController.swift */; };
 		4214B7651FF32F7A00908152 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4214B7631FF32F7A00908152 /* Main.storyboard */; };
@@ -34,6 +41,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		420911491FF3D5AD00394DE6 /* cda2977e3f7062ff0b38cf03e249acbf.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cda2977e3f7062ff0b38cf03e249acbf.png; path = ../../cda2977e3f7062ff0b38cf03e249acbf.png; sourceTree = "<group>"; };
+		4209114D1FF3D7A000394DE6 /* 結晶.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "結晶.jpg"; path = "../../結晶.jpg"; sourceTree = "<group>"; };
+		420911511FF3D80800394DE6 /* 6193-450x337.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "6193-450x337.jpg"; path = "../../6193-450x337.jpg"; sourceTree = "<group>"; };
+		420911531FF3DFDE00394DE6 /* サンタ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "サンタ.jpg"; path = "../../サンタ.jpg"; sourceTree = "<group>"; };
+		420911571FF3EB9600394DE6 /* 感謝.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "感謝.jpg"; path = "../../感謝.jpg"; sourceTree = "<group>"; };
+		420911591FF3EBC500394DE6 /* 365日.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "365日.mp3"; sourceTree = "<group>"; };
+		4209115B1FF3F47600394DE6 /* メイン.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "メイン.jpg"; sourceTree = "<group>"; };
 		4214B75C1FF32F7A00908152 /* サンタさん.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "サンタさん.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4214B75F1FF32F7A00908152 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4214B7611FF32F7A00908152 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +117,13 @@
 				4214B7661FF32F7A00908152 /* Assets.xcassets */,
 				4214B7681FF32F7A00908152 /* LaunchScreen.storyboard */,
 				4214B76B1FF32F7A00908152 /* Info.plist */,
+				420911491FF3D5AD00394DE6 /* cda2977e3f7062ff0b38cf03e249acbf.png */,
+				4209114D1FF3D7A000394DE6 /* 結晶.jpg */,
+				420911511FF3D80800394DE6 /* 6193-450x337.jpg */,
+				420911571FF3EB9600394DE6 /* 感謝.jpg */,
+				420911531FF3DFDE00394DE6 /* サンタ.jpg */,
+				420911591FF3EBC500394DE6 /* 365日.mp3 */,
+				4209115B1FF3F47600394DE6 /* メイン.jpg */,
 			);
 			path = "サンタさん";
 			sourceTree = "<group>";
@@ -232,9 +253,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4209114A1FF3D5AE00394DE6 /* cda2977e3f7062ff0b38cf03e249acbf.png in Resources */,
+				420911581FF3EB9600394DE6 /* 感謝.jpg in Resources */,
+				420911521FF3D80800394DE6 /* 6193-450x337.jpg in Resources */,
 				4214B76A1FF32F7A00908152 /* LaunchScreen.storyboard in Resources */,
+				420911541FF3DFDE00394DE6 /* サンタ.jpg in Resources */,
+				4209114E1FF3D7A000394DE6 /* 結晶.jpg in Resources */,
+				4209115C1FF3F47700394DE6 /* メイン.jpg in Resources */,
 				4214B7671FF32F7A00908152 /* Assets.xcassets in Resources */,
 				4214B7651FF32F7A00908152 /* Main.storyboard in Resources */,
+				4209115A1FF3EBC500394DE6 /* 365日.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -427,7 +455,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 8ZAWDKU8Y5;
 				INFOPLIST_FILE = "サンタさん/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "edu.self.-----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -441,7 +471,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 8ZAWDKU8Y5;
 				INFOPLIST_FILE = "サンタさん/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "edu.self.-----";
 				PRODUCT_NAME = "$(TARGET_NAME)";
